@@ -46,3 +46,30 @@ After installing Docker test the installation
 ![](images/bulletinboard.JPG)
 
 ## Section 3
+
+1. Linked Login of DockerHub to Docker
+
+![](images/login.JPG)
+
+
+type `docker login` and input login and password 
+
+2. Create repository on Docker Hub
+
+![](images/bulletinrepo.JPG)
+
+3. Tag then push your image
+
+![](images/impagetag.JPG)
+
+### Push It Real Good
+
+![](images/imagepush.JPG)
+
+### Success
+
+![](images/success.JPG)
+
+
+
+
