@@ -21,5 +21,22 @@
 
 ![](images/test3.jpg)
 
+## Section 2
 
+1. Run image as container
 
+![](images/runbuild.jpg)
+
+![](images/runbuild2.jpg)
+
+2. Build your image
+
+![](images/runimage.jpg)
+
+3. Go to local host and show Bulletin Board
+
+`npm install` the node modules first
+
+![](images/npminstall.jpg)
+
+![](images/bulletinboard.jpg)
