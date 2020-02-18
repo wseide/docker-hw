@@ -4,22 +4,22 @@
 
 ### Test Docker version
 
-![](images/docker version.png)
+![](images/docker version.jpg)
 
 
 ### Test Docker Installtion
 
 1. Was not working for a while because I forgot the tack  in  ``hello-world``
 
-![](images/test docker 1.png)
+![](images/test1.jpg)
 
 2. Run `docker image ls`
 
-![](images/test docker 1.2.png)
+![](images/test2.jpg)
 
 3. List 'hello-world` container
 
-![](images/test docker 1.3.png)
+![](images/test3.jpg)
 
 
 
