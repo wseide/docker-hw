@@ -4,20 +4,24 @@
 
 ### Test Docker version
 
+type `` docker --version `` to get a response with docker version
+
 ![](images/dockerversion.jpg)
 
 
 ### Test Docker Installtion
 
+After installing Docker test the installation
+
 1. Was not working for a while because I forgot the tack  in  ``hello-world``
 
 ![](images/test1.jpg)
 
-2. Run `docker image ls`
+2. Run `docker image ls` command line
 
 ![](images/test2.jpg)
 
-3. List 'hello-world` container
+3. List `hello-world` container by typing `docker container ls --all`
 
 ![](images/test3.jpg)
 
