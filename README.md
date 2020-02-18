@@ -4,7 +4,7 @@
 
 ### Test Docker version
 
-![](images/docker version.jpg)
+![](images/dockerversion.jpg)
 
 
 ### Test Docker Installtion
