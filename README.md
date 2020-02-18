@@ -25,18 +25,20 @@
 
 1. Run image as container
 
-![](images/runbuild.jpg)
+![](images/runbuild.JPG)
 
-![](images/runbuild2.jpg)
+![](images/runbuild2.JPG)
 
 2. Build your image
 
-![](images/runimage.jpg)
+![](images/runimage.JPG)
 
 3. Go to local host and show Bulletin Board
 
 `npm install` the node modules first
 
-![](images/npminstall.jpg)
+![](images/npminstall.JPG)
 
-![](images/bulletinboard.jpg)
+![](images/bulletinboard.JPG)
+
+## Section 3
